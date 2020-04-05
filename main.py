@@ -1,3 +1,7 @@
+"""Here I am using Pexels API for downloading different images.
+Visit this page https://www.pexels.com/api/ and get your auth code from there.
+Once you Put your auth code below in the code you are good to go."""
+
 import requests
 import pprint
 import ctypes
